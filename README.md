@@ -1,5 +1,7 @@
 # MobileMedia-SPL
 
+*This data set will be published as part of the research paper "Preserving Consistency of Interrelated Models during View-Based Evolution of Variable Systems" at the 21st International Conference on Generative Programming: Concepts & Experiences (GPCE 2022).*
+
 The MobileMedia-SPL^1,2^ is a real-world mobile application for media management. This data set comprises the first five revisions of MobileMedia, starting with the initial revision.
 
 For every revision, every change in every file was manually inspected and the affected features were documented.
